@@ -1,4 +1,4 @@
-/*class wallet
+class wallet
 {
     double balance;
     String lastWithdraw_Mode;
@@ -36,4 +36,4 @@ public class Task_04
 
     }
     
-} */
+}
